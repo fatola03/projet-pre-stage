@@ -1,0 +1,64 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE et éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Données et fichiers volumineux
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.h5
+*.pkl
+*.pickle
+
+# Logs et caches
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers temporaires
+.tmp/
+temp/
+*.tmp
